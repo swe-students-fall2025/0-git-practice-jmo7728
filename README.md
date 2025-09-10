@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+An article that I found interesting, which was reccommended to me during my internship is "What Every Programmer Should Know About Memory" By Ulrich Drepper who is the CTO of Red Hat.
+
+What I find interesting about this article is how important low-level details about memory can be influential to our software development. The systems I worked with were coded heavily with C and had to be extremely careful with memory. Before this article I only understood a basic level of how memory works from a low level perspective from Computer Systems Orginization, but this article expanded my knoweldge, and influenced my software development approach. The errors I encounter start to make a lot more sense, and I am now able to understand how to better optimize my code and leverage new topics such as multi-threaded programming.
